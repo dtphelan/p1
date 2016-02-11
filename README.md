@@ -12,5 +12,5 @@ Screencast link coming soon; I have to record that.
 
 ## Outside code
 
-I used [Bootstrap](https://getbootstrap.com/) for styling. The navbar, in particular, is heavily modeled after the [Bootsrap theme example](https://getbootstrap.com/examples/theme/).
+I used [Bootstrap](https://getbootstrap.com/) for styling. The navbar, in particular, is heavily modeled after the [Bootstrap theme example](https://getbootstrap.com/examples/theme/).
 Bootstrap requires [JQuery](https://jquery.com/) to work properly, so there's a call for that as well.
