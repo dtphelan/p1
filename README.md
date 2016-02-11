@@ -8,7 +8,7 @@ Find it at [p1.danielphelan.me](http://p1.danielphelan.me).
 
 ## Screencast
 
-Screencast link coming soon; I have to record that.
+[Here's the demo for the project.](http://screencast.com/t/iJwbwcsuH)
 
 ## Outside code
 
