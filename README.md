@@ -2,7 +2,7 @@
 
 Simply, this is P1 for [DWA 15](http://dwa15.com/Projects/P1). It's an easy project that contains a picture of myself, and will, in the future, have links to each other project I undertake in the class.
 
-Find it at [p1.danielphelan.com](http://p1.danielphelan.com).
+Find it at [p1.danielphelan.com](http://p1.danielphelan.me).
 
 Screencast link coming soon; I have to record that.
 
