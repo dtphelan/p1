@@ -1,11 +1,34 @@
 body {
-  background-color: #f2f2f2;
+  background-color: #f2f2f2!important;
+  padding-top: 70px;
+  padding-bottom: 30px;
 }
 
-h1, h2, h3, p {
-  font-family: "Roboto";
+h1, h2, h3, li {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+p, a {
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 20px;
+}
+
+p {
+  color: #404040;
+}
+
+a {
+  color: #a00000;
+}
+
+.navbar {
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.navbar-brand {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
 .container {
   padding: 5px 5px 5px 5px;
   width: 80%;
@@ -13,11 +36,7 @@ h1, h2, h3, p {
 }
 
 .intro {
-  padding: 5px 5px 5px 5px;
-  margin: auto;
 }
 
-.projects {
-  padding: 5px 5px 5px 5px;
-  margin: auto;
+.project {
 }
