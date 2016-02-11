@@ -1,0 +1,23 @@
+body {
+  background-color: #f2f2f2;
+}
+
+h1, h2, h3, p {
+  font-family: "Roboto";
+}
+
+.container {
+  padding: 5px 5px 5px 5px;
+  width: 80%;
+  margin: auto;
+}
+
+.intro {
+  padding: 5px 5px 5px 5px;
+  margin: auto;
+}
+
+.projects {
+  padding: 5px 5px 5px 5px;
+  margin: auto;
+}
